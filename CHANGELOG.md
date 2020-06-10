@@ -1,3 +1,9 @@
+# [5.0.0](https://github.com/jadack-msft/UIEffect) (2020-06-10)
+
+### Features
+
+* added a text file to test out how to trigger an updated version in Unity Package Manager
+
 # [4.0.0-preview.9](https://github.com/mob-sakai/UIEffect/compare/v4.0.0-preview.8...v4.0.0-preview.9) (2020-06-09)
 
 
